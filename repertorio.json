@@ -1,14 +1,1 @@
-[
-    {
-        "id": 1,
-        "titulo": "A dios le pido",
-        "artista": "Juanes",
-        "tono": "Dm"
-    },
-    {
-        "id": 2,
-        "titulo": "Música ligera",
-        "artista": "Soda Estéreo",
-        "tono": "Bm"
-    }
-]
+[{"id":2,"titulo":"Música ligera","artista":"Soda Estéreo","tono":"Bm"},{"id":"4326","titulo":"War","artista":"Bob Marley","tono":"Dm"}]
